@@ -32,9 +32,9 @@ docker-compose up --build
 
   - Login credentials:
 
-Email: admin@example.com
+   Email: admin@example.com
 
-Password: admin
+   Password: admin
 
 🛠️ Technologies Used
 
